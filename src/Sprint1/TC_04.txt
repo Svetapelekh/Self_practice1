@@ -1,0 +1,3 @@
+test case of log out page
+
+smoke test
